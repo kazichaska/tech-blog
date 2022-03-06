@@ -50,7 +50,7 @@ Email me with any question: kazichaska@gmail.com <br />
 ## Deployed Application Video Link
 
 Below is the recorded video link of deployed application and how to use it:
-https://watch.screencastify.com/v/nmsC1515pjTbb0Xd0Q93
+https://powerful-forest-82738.herokuapp.com/
 
 ## Screenshots of the code
 
@@ -59,6 +59,8 @@ https://watch.screencastify.com/v/nmsC1515pjTbb0Xd0Q93
 ![script](./assets/images/script.png)
 
 ![script1](./assets/images/script1.png)
+
+![heroku_application](./assets/images/herokuapp.png)
 
 ![application](./assets/images/application.png)
 
