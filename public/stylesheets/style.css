@@ -136,7 +136,7 @@ main {
 .post {
   margin-bottom: 2%;
   line-height: 150%;
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
   margin: 5px;
   padding: 5px;
 }
@@ -147,13 +147,6 @@ main {
   /* color: #7d7d7d; */
   color: darkgreen;
 }
-
-/* .title {
-  font-style: bold;
-  font-weight: 20px;
-  font-size: 100%;
-  color: white;
-} */
 
 .edit-link {
   display: block;
