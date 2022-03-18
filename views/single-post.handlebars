@@ -1,4 +1,4 @@
-<ol class="post-list">
+<ol class="comment-list">
   {{#each posts as |post|}}
   <li>
     {{> post-info post }}
@@ -9,11 +9,11 @@
 {{#if loggedIn}}
   <form class="comment-form">
     <div>
-      <textarea name="comment-body"></textarea>
+      <textarea rows="3" name="comment-body"></textarea>
     </div>
 
     <div>
-      <button type="submit">add comment</button>
+      <button type="submit">Add comment</button>
     </div>
   </form>
 {{/if}}
