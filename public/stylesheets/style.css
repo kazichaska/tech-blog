@@ -141,19 +141,19 @@ main {
   padding: 5px;
 }
 
-.post span {
-  font-style: italic;
+.post .title span {
+  font-style: bold;
   font-size: 90%;
-  color: #7d7d7d;
+  /* color: #7d7d7d; */
   color: darkgreen;
 }
 
-.title {
-  font-style: italic;
+/* .title {
+  font-style: bold;
   font-weight: 20px;
   font-size: 100%;
-  color: darkgreen;
-}
+  color: white;
+} */
 
 .edit-link {
   display: block;
